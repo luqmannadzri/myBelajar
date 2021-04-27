@@ -31,7 +31,7 @@ No | Name | Matric No
 
 ## Sequence Diagram
 ![sequence1\_diagram](images/seq1.png)
-![sequence2\_diagram](images/seq2.png)
+![sequence2\_diagram](images/seq3.png)
 
 ## References
 * Why are Quizzes valuable in education? (n.d.). Retrieved April 24, 2021, from https://www.educationquizzes.com/knowledge-bank/why-are-quizzes-valuable-in-education/
