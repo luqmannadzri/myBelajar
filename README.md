@@ -32,8 +32,8 @@ myBelajar application is targeted to users with access to smartphone and interne
 ![routing\_diagram](images/routing_diagram.png)
 
 ## Sequence Diagram
-![sequence1\_diagram](images/sequence1.png)
-![sequence2\_diagram](images/sequence2.png)
+![sequence1\_diagram](images/seq1.png)
+![sequence2\_diagram](images/seq2.png)
 
 ## References
 * Why are Quizzes valuable in education? (n.d.). Retrieved April 24, 2021, from https://www.educationquizzes.com/knowledge-bank/why-are-quizzes-valuable-in-education/
