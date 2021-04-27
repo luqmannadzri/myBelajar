@@ -20,12 +20,11 @@ myBelajar application is targeted to users with access to smartphone and interne
 * To motivate users to develop their memorizing skills, contribute in educational discussions, and do well in building general knowledge skills.
 
 ## Features and Functionalities
-* Signup Page - Allow users to signup and access the dashboard
-* Login Page - Allow users to login and access the dashboard
-* Dashboard Page - Categorized various questions in cards
-* Profile Page - Display user information
-* Facts Page - Display facts card for selected topic
-* Profile Page - Display user information
+* **Signup Page** - Allow users to signup and access the dashboard
+* **Login Page** - Allow users to login and access the dashboard
+* **Dashboard Page** - Categorized various topics in cards
+* **Facts Page** - Display facts card for selected topic
+* **Profile Page** - Display user information
 
 ## Screen Navigation (routing) / Components Diagram
 ![routing\_diagram](images/routing_diagram.png)
