@@ -31,8 +31,10 @@ No | Name | Matric No
 
 ## Sequence Diagram
 ![sequence1\_diagram](images/seq1.png "Figure 1: Register/Login Sequence Diagram")
+_Figure 1: Register/Login Sequence Diagram_
 
 ![sequence2\_diagram](images/seq3.png "Figure 1: Choosing Material Category Sequence Diagram")
+_Figure 2: Choosing Material Category Sequence Diagram_
 
 ## References
 * Why are Quizzes valuable in education? (n.d.). Retrieved April 24, 2021, from https://www.educationquizzes.com/knowledge-bank/why-are-quizzes-valuable-in-education/
