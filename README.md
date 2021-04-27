@@ -1,4 +1,4 @@
-# myBelajar
+# Education: myBelajar
 
 ## Group Members
 No | Name | Matric No
@@ -8,9 +8,6 @@ No | Name | Matric No
 3 | Muhamad Nor Zakwan Bin Ismail | 1726259
 4 | Muhammad Luqman Bin Mohamad Nadzri | 1723099
 5 | Nur Aida Afrina Binti Zulnazri | 1729832
-
-## Title
-Education: **myBelajar**
 
 ## Introduction 
 myBelajar is an interactive learning application that enables users to learn and gain knowledge with interesting questions and facts. myBelajar uses the concept of an answer card where, when the user presses on the card it will show a fact about that topic. Users can choose categories of knowledge that they want to know such as educational, sports, entertainment and many more. It is specially designed to attract people, especially children to learn more about interesting facts. Due to the pandemic of Covid-19, online learning has been a new norm for students, including teachers where we need to adapt to the online activities and classes. Therefore, myBelajar application can help teachers and students to learn additional knowledge as activities to make online learning more interactive and fun.
