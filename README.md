@@ -24,6 +24,8 @@ myBelajar application is targeted to users with access to smartphone and interne
 * Login Page - Allow users to login and access the dashboard
 * Dashboard Page - Categorized various questions in cards
 * Profile Page - Display user information
+* Facts Page - Display facts card for selected topic
+* Profile Page - Display user information
 
 ## Screen Navigation (routing) / Components Diagram
 ![routing\_diagram](images/routing_diagram.png)
