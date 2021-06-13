@@ -3,7 +3,15 @@
 ![](https://img.shields.io/travis/react-tags/react-tags.svg) ![](https://img.shields.io/npm/v/react-tag-input.svg) 
 
 ### Table of Content
-[TOC]
+* **[Members Name](#members-name)**
+* **[Introduction](#introduction)**
+* **[objective](#objective)**
+* **[Features and Functionalities](#features-and-functionalities)**
+* **[Screen Navigation](#screen-navigation)**
+* **[Sequence Diagram](#sequence-diagram)**
+* **[User Interface](#user-interface)**
+* **[Challenges and Difficulties](#challenges-and-difficulties)**
+* **[References](#references)**
 
 ### Members Name
 
@@ -37,7 +45,7 @@ No | Name | Matric No
 
 ![screennavigation](./src/images/screen_navigation.png)
 
-## Sequance Diagram
+## Sequence Diagram
 ![](./src/images/ref_1.png)
 ![](./src/images/ref_2.png)
 ![](./src/images/ref_3.png)
@@ -70,7 +78,7 @@ When users tapped on the trending tab, top 4 categories that are mostly tapped w
 ![](./src/images/ui_8.png)
 This is the profile screen. In this screen, the users can see the information and details about themselves. The users also need to go to this screen in order to sign out from myBelajar.
 
-## Challenges / Difficulties
+## Challenges and Difficulties
 
 A set of requirements that has been determined in the early phase of project planning are completed. However, alongside the development there are always challenges and difficulties throughout the project. Some of the challenges that are being encountered during this development is connecting to Firestore. The problem is to connect between the data from registration in authentication to the Firestore in order to display a user’s information in the profile page. This is because during the registration process the user information is not saved in the Firestore, so we need to add it into the Firestore to use in other pages. 
 
