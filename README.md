@@ -44,13 +44,23 @@ No | Name | Matric No
 ## Screen Navigation
 
 ![screennavigation](./src/images/screen_navigation.png)
+Figure 1: Screen Navigation (Routing)
 
 ## Sequence Diagram
 ![](./src/images/ref_1.png)
+Figure 2 : Sign up / Log in Sequence Diagram
+
 ![](./src/images/ref_2.png)
+Figure 3 : Homepage (Choose Category) Sequence Diagram
+
 ![](./src/images/ref_3.png)
+Figure 4 : Facts Page (Choose Statement and Display Facts) Sequence Diagram
+
 ![](./src/images/ref_4.png)
+Figure 5 : Trending Page Sequence Diagram 
+
 ![](./src/images/ref_5.png)
+Figure 6 : Profile Page (View Information and Signing Out) Sequence Diagram
 
 ## User Interface
 
@@ -94,3 +104,8 @@ To conclude, if we look at all of the challenges and difficulties, we realize th
 ## References
 * Why are Quizzes valuable in education? (n.d.). Retrieved April 24, 2021, from https://www.educationquizzes.com/knowledge-bank/why-are-quizzes-valuable-in-education/
 * LMS, K. (n.d.). Advantages/benefits of online quiz: Online quiz creator. Retrieved April 24, 2021, from https://www.onlinequizcreator.com/knowledge-center/lms-knowledge-center/benefits-of-online-quiz/item289
+* Firebase Documentation. https://firebase.google.com/docs/firestore/quickstart
+* React Native Documentation. https://reactnative.dev/docs/intro-react-native-components
+
+### Youtube Link
+Youtube Link - https://www.youtube.com/watch?v=09Gk6xzuqv0
