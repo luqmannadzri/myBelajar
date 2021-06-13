@@ -22,9 +22,10 @@ No | Name | Matric No
 ## Features and Functionalities
 * **Signup Page** - Allow users to signup and access the dashboard
 * **Login Page** - Allow users to login and access the dashboard
-* **Dashboard Page** - Categorized various topics in cards
+* **Homepage** - Categorized various topics in cards
 * **Facts Page** - Display facts card for selected topic
-* **Profile Page** - Display user information
+* **Trending Page** - Display top 4 categories that have the highest tap
+* **Profile Page** - Display users information
 
 ## Screen Navigation (routing) / Components Diagram
 ![routing\_diagram](images/routing_diagram.png)
