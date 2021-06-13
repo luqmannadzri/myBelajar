@@ -66,28 +66,28 @@ Figure 6 : Profile Page (View Information and Signing Out) Sequence Diagram
 ## User Interface
 
 ![](./src/images/ui_1.png)
-This is the initial screen for the new user who just starts using this application. A screen with a login and register button will appear. Existing users will just need to click on the login button while the new user will need to register for a new account.
+\This is the initial screen for the new user who just starts using this application. A screen with a login and register button will appear. Existing users will just need to click on the login button while the new user will need to register for a new account.
 
 ![](./src/images/ui_2.png)
-Existing users will need to click the login button. After tapping into the login button, they will be redirected to a screen with a login form and they will need to enter their email and password.
+\Existing users will need to click the login button. After tapping into the login button, they will be redirected to a screen with a login form and they will need to enter their email and password.
 
 ![](./src/images/ui_3.png)
-Meanwhile for the new user, they will be directed to a register screen and they will need to enter their first name, last name, email, password and also confirm their password. After they will just click register for their account to be created. These details will then be displayed later.
+\Meanwhile for the new user, they will be directed to a register screen and they will need to enter their first name, last name, email, password and also confirm their password. After they will just click register for their account to be created. These details will then be displayed later.
 
 ![](./src/images/ui_4.png)
-This is the home screen for the users of myBelajar. A few categories of topics will be displayed and the users can choose any category they want to learn about.This categories data is fetched from the Firestore.
+\This is the home screen for the users of myBelajar. A few categories of topics will be displayed and the users can choose any category they want to learn about.This categories data is fetched from the Firestore.
 
 ![](./src/images/ui_5.png)
-After the users click into the categories they want, they will discover a few statement cards related to the categories that they have chosen. This screen uses a scroll view so that the users can scroll through various questions provided. The statements are fetched from Firestore.
+\After the users click into the categories they want, they will discover a few statement cards related to the categories that they have chosen. This screen uses a scroll view so that the users can scroll through various questions provided. The statements are fetched from Firestore.
 
 ![](./src/images/ui_6.png)
-When the users tap on the cards, the cards tapped will be flipped and the facts of the statements related to the category will then be displayed replacing the statements. Flip card is used to show statements and facts.
+\When the users tap on the cards, the cards tapped will be flipped and the facts of the statements related to the category will then be displayed replacing the statements. Flip card is used to show statements and facts.
 
 ![](./src/images/ui_7.png)
-When users tapped on the trending tab, top 4 categories that are mostly tapped will be displayed so that the users will know which categories that are currently popular amongst the users.
+\When users tapped on the trending tab, top 4 categories that are mostly tapped will be displayed so that the users will know which categories that are currently popular amongst the users.
 
 ![](./src/images/ui_8.png)
-This is the profile screen. In this screen, the users can see the information and details about themselves. The users also need to go to this screen in order to sign out from myBelajar.
+\This is the profile screen. In this screen, the users can see the information and details about themselves. The users also need to go to this screen in order to sign out from myBelajar.
 
 ## Challenges and Difficulties
 
