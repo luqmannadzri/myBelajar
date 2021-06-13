@@ -38,29 +38,11 @@ No | Name | Matric No
 ![screennavigation](./src/images/screen_navigation.png)
 
 ## Sequance Diagram
-```seq
-User->Application: 1. New Registration() 
-Developer-->Application: 2. Approve New Registration()
-User->Application: 3. User Log In()
-Application-->User: 4. Direct user to Homepage()
-```
-
-```seq
-Application-->User: 1. Application shows tabs of\ncategory() 
-User->Application: 2. Users tap on the chosen\ncategory()
-Application-->User: 3. Application shows tabs of\nstatement available in chose category()
-```
-
-```seq
-Application-->User: 1. Application shows tabs statement\navailable() 
-User->Application: 2. Users tap on the chosen\nstatement()
-Application-->User: 3. Card will flipped to show facts related\n to the statement()
-```
-
-```seq
-User->Application: 1. Tap on Trending Page() 
-Application-->User: 2. Application display top 4\ncategories()
-```
+![](./src/images/ref_1.png)
+![](./src/images/ref_2.png)
+![](./src/images/ref_3.png)
+![](./src/images/ref_4.png)
+![](./src/images/ref_5.png)
 
 ## User Interface
 
