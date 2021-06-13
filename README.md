@@ -54,10 +54,10 @@ No | Name | Matric No
 
 ## User Interface
 
-![](./src/images/ui_1.png)
+![ref1](./src/images/ui_1.png)
 This is the initial screen for the new user who just starts using this application. A screen with a login and register button will appear. Existing users will just need to click on the login button while the new user will need to register for a new account.
 
-![](./src/images/ui_2.png)![]
+![](./src/images/ui_2.png)
 Existing users will need to click the login button. After tapping into the login button, they will be redirected to a screen with a login form and they will need to enter their email and password.
 
 ![](./src/images/ui_3.png)
